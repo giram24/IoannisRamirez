@@ -1,2 +1,2 @@
 # IoannisRamirez
-Portfolio
+Classes page, projects page, certs page
