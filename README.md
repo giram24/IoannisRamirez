@@ -6,12 +6,12 @@ I love baseball and try to go to a few games every year. At this point I have vi
 Listed below are some of the projects, classes, applications, and certifications I have done. I hope you enjoy and I cannot wait to add to this list!
 
 ## Table of Contents
-- [Projects](#projects)
+- [Projects](#projects/assignments)
 - [Classes](#classes)
 - [Applications](#applications)
 - [Certifications](#certifications)
 
-### Projects 
+### Projects/Assignments
 I plan to undertake more projects in the future that center around my interests, but these are some projects I have done. I will give a brief summary of each project in addition to a picture of the project. 
 - Karaoke Machine
 - Ground Surveillance Drone (almost)
@@ -34,7 +34,7 @@ I have taken various classes that go into both of my interests of power and RF. 
 ### Applications
 These are some of the applications of note that I have interacted with and plan to get more accustomed to. 
 - Excel
-- MatLab/Simulink
+- MatLab/Simulink: 
 - HFSS
 - Solidworks
 - KiCAD
