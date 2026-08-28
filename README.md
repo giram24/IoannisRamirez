@@ -1,8 +1,8 @@
 # Greetings 
 I am Ioannis and I am an Electrical Engineering student at Penn State University. I created this Github repo as a way to gain a better understanding of this site and to show some of my skills in a fun way! I have strong interests in both power and radio frequency (RF), but I am also interested by the MEP industry. Listed below are some of the classes, projects, and certifications I have done. 
 
-# Table of Contents
--[Projects](#projects)
+## Table of Contents
+- [Projects](#projects)
 
 
 
