@@ -1,5 +1,9 @@
 # Greetings 
-I am Ioannis and I am an Electrical Engineering student at Penn State University. I created this Github repo as a way to gain a better understanding of this site and to show some of my skills in a fun way! I have strong interests in both power and radio frequency (RF), but I also have an interest in the MEP industry. Some things about me are that I love to play pickleball and be outside. I love baseball and try to go to a few games every year. At this point I have visited 11/30 MLB stadiums and plan to visit them all. Listed below are some of the projects, classes, applications, and certifications I have done. I hope you enjoy and I cannot wait to add to this list!
+I am Ioannis and I am an Electrical Engineering student at Penn State University. I created this Github repo as a way to gain a better understanding of this site and to show some of my skills in a fun way! I have strong interests in both power and radio frequency (RF), but I also have an interest in the MEP industry. 
+Some things about me are that I love to play pickleball and be outside. 
+I love baseball and try to go to a few games every year. At this point I have visited 11/30 MLB stadiums and plan to visit them all.
+
+Listed below are some of the projects, classes, applications, and certifications I have done. I hope you enjoy and I cannot wait to add to this list!
 
 ## Table of Contents
 - [Projects](#projects)
