@@ -15,7 +15,8 @@ This section is meant to show off some of the projects and classwork that I was 
 
 - Karaoke Machine 
 <img width="2460" height="2198" alt="IMG_1078 (1)" src="https://github.com/user-attachments/assets/ed2d29db-5d57-4477-95b3-a9b7c04d0c8b" />
-  Designed and built a multi-stage analog karaoke machine circuit integrating **audio mixing, karaoke signal subtraction, Baxandall bass/treble tone control, volume control, LED volume indication, and output attenuation**. The project used operational amplifiers, potentiometers, voltage dividers, and carefully selected resistor values to achieve the desired signal gains and frequency response. I developed and analyzed each circuit block through simulation, assembled and debugged the design on a breadboard, and ultimately implemented the complete system on a **PCB**. The project provided hands-on experience with analog circuit design, op-amp configurations, signal conditioning, circuit simulation, hardware troubleshooting, and PCB implementation. <br />
+  Designed and built a multi-stage analog karaoke machine circuit integrating **audio mixing, karaoke signal subtraction, Baxandall bass/treble tone control, volume control, LED volume indication, and output attenuation**. The project used operational amplifiers, potentiometers, voltage dividers, and carefully selected resistor values to achieve the desired signal gains and frequency response. I developed and analyzed each circuit block through simulation, assembled and debugged the design on a breadboard, and ultimately implemented the complete system on a **PCB**. The project provided hands-on experience with analog circuit design, op-amp configurations, signal conditioning, circuit simulation, hardware troubleshooting, and PCB implementation.
+<br />
   
 - Ground Surveillance Drone (almost)
 <img width="2895" height="1470" alt="IMG_1079 (1)" src="https://github.com/user-attachments/assets/f4213602-2065-422c-bc93-9e382255db25" />
