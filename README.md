@@ -12,9 +12,12 @@ Listed below are some of the projects, classes, applications, and certifications
 ### Projects/Classwork
 This section is meant to show off some of the projects and classwork that I was excited to design and create. I plan to undertake more projects in the future that center around my interests, but these are some things I have done. I will give a brief summary of each project in addition to a picture of the project. 
 - Karaoke Machine
+  <img width="1250" height="718" alt="image" src="https://github.com/user-attachments/assets/ea761a21-1d1f-428d-ad2f-d7bb3b12a9a0" />
   Designed and built a multi-stage analog karaoke machine circuit integrating **audio mixing, karaoke signal subtraction, Baxandall bass/treble tone control, volume control, LED volume indication, and output attenuation**. The project used operational amplifiers, potentiometers, voltage dividers, and carefully selected resistor values to achieve the desired signal gains and frequency response. I developed and analyzed each circuit block through simulation, assembled and debugged the design on a breadboard, and ultimately implemented the complete system on a **PCB**. The project provided hands-on experience with analog circuit design, op-amp configurations, signal conditioning, circuit simulation, hardware troubleshooting, and PCB implementation.
+  
 
 - Ground Surveillance Drone (almost)
+  
   Designed the battery and power delivery circuit for a five-person engineering team project for my junior capstone, with primary responsibility for the power system supporting a 3S1P LiPo battery. I designed the schematic and PCB for the battery circuit, including the charging and power-delivery circuitry, USB-C input, charger IC, MOSFETs, inductor, and supporting passive components. The system was designed to provide approximately 12 V for motor power and regulated 3.3–5 V power for a Raspberry Pi. Using KiCad, I developed and simulated the circuit and designed the corresponding PCB, then produced a physical PCB prototype for the design. This project provided hands-on experience with battery charging, power electronics, component selection, schematic development, PCB layout, and designing power systems for a multi-component embedded system.
 
 - Dipole
