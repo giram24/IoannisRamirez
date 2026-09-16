@@ -41,15 +41,17 @@ I have taken various classes that go into both of my interests of power and RF. 
 - Modern Energy Technology
 #### Other
 - Intro to Nanoelectronics
-- Continuous Time Linear Systems
+- Signals and Systems
 
 ### Applications
 These are some of the applications of note that I have interacted with and plan to get more accustomed to. 
 - Excel
 - MatLab/Simulink
-- HFSS
+- HFSS (Ansys)
 - Solidworks
+- AutoCAD
 - KiCAD
+- ADS
 
 ### Certifications
 - Osha 10 Certified
