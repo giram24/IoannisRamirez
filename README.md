@@ -13,7 +13,7 @@ Listed below are some of the projects, classes, applications, and certifications
 ### Projects/Classwork
 This section is meant to show off some of the projects and classwork that I was excited to design and create. I plan to undertake more projects in the future that center around my interests, but these are some things I have done. I will give a brief summary of each project in addition to a picture of the project. 
 
-- Karaoke Machine
+- Karaoke Machine 
 <img width="1000" height="718" alt="IMG_1078" src="https://github.com/user-attachments/assets/ede14669-1aac-4c4d-af3b-00ff235f2f63" />
   Designed and built a multi-stage analog karaoke machine circuit integrating **audio mixing, karaoke signal subtraction, Baxandall bass/treble tone control, volume control, LED volume indication, and output attenuation**. The project used operational amplifiers, potentiometers, voltage dividers, and carefully selected resistor values to achieve the desired signal gains and frequency response. I developed and analyzed each circuit block through simulation, assembled and debugged the design on a breadboard, and ultimately implemented the complete system on a **PCB**. The project provided hands-on experience with analog circuit design, op-amp configurations, signal conditioning, circuit simulation, hardware troubleshooting, and PCB implementation.
   
